@@ -79,9 +79,8 @@ to configure after installing.
 
 ## Licence
 
-<!-- TODO (Harel's decision, not set yet): every marketplace requires a stated licence.
-     MIT is the usual choice for a plugin and is what the examples in each directory use.
-     Add a LICENSE file with the chosen licence and name it here before submitting. -->
+MIT, as stated in [LICENSE](../LICENSE) at the root of this repository, which covers every
+plugin in it.
 
 This folder contains only the agent plugin: one skill, written in Markdown. The ONDA applications
 themselves are not open source and no application code is published here.

@@ -1,7 +1,7 @@
 {
   "$schema": "https://antigravity.google/schemas/v1/plugin.json",
   "name": "onda",
-  "displayName": "ONDA",
+  "displayName": "TUVAL AI - ONDA",
   "description": "Read meetings ONDA recorded, from the folders on this machine: find a meeting, search every transcript, read one with speakers named.",
   "version": "1.0.0",
   "logo": "assets/logo.svg",

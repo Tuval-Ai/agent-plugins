@@ -13,8 +13,10 @@ conversation and answers. Nothing is uploaded, and no account is created.
    conversations that the official WhatsApp app already keeps on that computer. It is distributed on
    request at `iris@tuval-ai.co.il`, not from a public download page.
 
-   The Iris release that builds the archive this way and installs the command below is not out yet.
-   Until it is, the plugin reports that there is no archive to read.
+   This needs **Iris 0.2.19 or later**, with **WhatsApp on the Mac** (וואטסאפ במק) switched on in Iris's settings.
+   It is off until the business turns it on, because turning it on asks macOS for access to another
+   app's data. The first import runs in the background and can take a quarter of an hour on a large
+   history.
 2. **The agent has to run on that Mac.** This reads a local archive, so it works in a terminal agent,
    a desktop agent or an IDE agent on the same computer. It cannot work in a browser-only chat, which
    has no access to your disk.

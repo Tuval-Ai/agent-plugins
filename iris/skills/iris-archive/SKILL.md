@@ -80,7 +80,7 @@ answers anything, and it is more than the question needs.
 | `error` | What it means | What to tell the user |
 |---|---|---|
 | `not_found` | No Iris archive on this Mac | Iris has not set up an archive on this computer |
-| `no_app_local_archive` | The archive exists but was not built from the WhatsApp app on this Mac | Iris has not yet imported the conversations from the WhatsApp app here |
+| `no_app_local_archive` | The archive exists but was not built from the WhatsApp app on this Mac | In Iris, open Settings, then WhatsApp on the Mac (וואטסאפ במק), and switch it on. The first import can take a quarter of an hour |
 | `archive_not_ready` | Iris has never been opened since installing | Open Iris once, then try again |
 | `not_allowed` | That conversation is not marked customer or staff, or the id is unknown | It is outside what Iris shares. The business can mark it in Iris |
 | `query_too_short`, `query_is_only_wildcards` | The search text was empty or only `%` / `_` | Search for an actual word |

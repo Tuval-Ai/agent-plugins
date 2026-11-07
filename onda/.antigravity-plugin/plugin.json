@@ -1,0 +1,28 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "onda",
+  "displayName": "ONDA",
+  "description": "Read meetings ONDA recorded, from the folders on this machine: find a meeting, search every transcript, read one with speakers named.",
+  "version": "1.0.0",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "What did we decide in my last meeting with the client?",
+    "Search my ONDA meetings for anything about pricing",
+    "Who was in the meeting on Tuesday, and what did each of them say?"
+  ],
+  "author": {
+    "name": "Tuval AI",
+    "email": "onda@tuval-ai.co.il",
+    "url": "https://onda.tuval-ai.co.il"
+  },
+  "homepage": "https://onda.tuval-ai.co.il",
+  "repository": "https://github.com/Tuval-Ai/agent-plugins",
+  "license": "MIT",
+  "keywords": [
+    "onda",
+    "meeting",
+    "transcript",
+    "hebrew",
+    "tuval ai"
+  ]
+}

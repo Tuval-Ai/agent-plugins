@@ -1,0 +1,19 @@
+{
+  "name": "onda",
+  "version": "1.0.0",
+  "description": "Read meetings recorded by ONDA (Tuval AI) from the recording folders on this machine: find a meeting, search the library, read a transcript or a summary with speakers named.",
+  "author": {
+    "name": "Tuval AI",
+    "url": "https://onda.tuval-ai.co.il"
+  },
+  "homepage": "https://onda.tuval-ai.co.il",
+  "repository": "https://github.com/Tuval-Ai/agent-plugins",
+  "license": "MIT",
+  "keywords": [
+    "onda",
+    "onda recording",
+    "onda transcript",
+    "onda meeting",
+    "tuval ai"
+  ]
+}

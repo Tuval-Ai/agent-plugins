@@ -62,7 +62,7 @@ A catalog entry in xAI's `.grok-plugin/marketplace.json` looks like this. Every 
   "category": "productivity",
   "source": {
     "source": "url",
-    "url": "https://github.com/<org>/agent-plugins.git",
+    "url": "https://github.com/Tuval-Ai/agent-plugins.git",
     "sha": "0000000000000000000000000000000000000000",
     "path": "onda"
   },
@@ -88,7 +88,7 @@ release never waits on another's.)
 Get the SHA to pin:
 
 ```bash
-git ls-remote https://github.com/<org>/agent-plugins.git HEAD
+git ls-remote https://github.com/Tuval-Ai/agent-plugins.git HEAD
 ```
 
 **To release an update, change one entry's `sha` and nothing else.** Never open a second entry

@@ -1,0 +1,27 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "iris",
+  "displayName": "TUVAL AI - IRIS",
+  "description": "Read the business conversations Iris archived on this Mac: list the conversations marked customer or staff, search them, read one.",
+  "version": "0.1.0",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "Search my Iris archive for what customers asked about prices this week",
+    "Find the Iris conversation where we agreed on the delivery date",
+    "Which of my Iris customer conversations are waiting for a reply?"
+  ],
+  "author": {
+    "name": "Tuval AI",
+    "email": "iris@tuval-ai.co.il",
+    "url": "https://iris-app.tuval-ai.co.il"
+  },
+  "homepage": "https://iris-app.tuval-ai.co.il",
+  "repository": "https://github.com/Tuval-Ai/agent-plugins",
+  "license": "MIT",
+  "keywords": [
+    "iris",
+    "business archive",
+    "customer conversations",
+    "tuval-iris"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "iris",
+  "version": "0.1.0",
+  "description": "Read the business conversations Iris (Tuval AI) archived on this Mac: list the conversations marked customer or staff, search them, and read one. Read only, and only what the business marked.",
+  "author": {
+    "name": "Tuval AI",
+    "url": "https://iris-app.tuval-ai.co.il"
+  },
+  "homepage": "https://iris-app.tuval-ai.co.il",
+  "repository": "https://github.com/Tuval-Ai/agent-plugins",
+  "license": "MIT",
+  "keywords": [
+    "iris archive",
+    "iris conversation",
+    "iris customer",
+    "iris staff",
+    "iris tuval"
+  ],
+  "logo": "assets/logo.svg"
+}

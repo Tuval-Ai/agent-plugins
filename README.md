@@ -6,6 +6,7 @@ directory, Antigravity.
 | Product | Folder | What it does |
 |---|---|---|
 | [ONDA](https://onda.tuval-ai.co.il) | [`onda/`](onda/) | Read meetings ONDA recorded, from the recording folders on your own machine |
+| [Iris](https://iris-app.tuval-ai.co.il) | [`iris/`](iris/) | Read a business's customer and staff conversations from the archive Iris keeps on your own Mac |
 
 **Nothing in this repository is product code.** It holds skills, manifests and documentation that
 tell an agent how to work with a Tuval AI product. The products themselves are closed source and

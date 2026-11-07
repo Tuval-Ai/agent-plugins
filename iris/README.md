@@ -63,7 +63,8 @@ course of answering you, as with any other file you ask an agent to read. These 
 with real customers and employees, so the skill tells the agent to read only what the question needs
 and never to copy or aggregate the archive.
 
-- [Privacy policy](https://iris-app.tuval-ai.co.il/privacy.html)
+- [Privacy policy](https://iris-app.tuval-ai.co.il/privacy-en.html) (English). The Hebrew original is at
+  [privacy.html](https://iris-app.tuval-ai.co.il/privacy.html).
 
 Iris is a product of Tuval AI. It is not affiliated with, endorsed by or sponsored by WhatsApp or
 Meta.

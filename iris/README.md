@@ -78,6 +78,8 @@ and never to copy or aggregate the archive.
 
 - [Privacy policy](https://iris-app.tuval-ai.co.il/privacy-en.html) (English). The Hebrew original is at
   [privacy.html](https://iris-app.tuval-ai.co.il/privacy.html).
+- [Terms of use](https://iris-app.tuval-ai.co.il/terms-en.html) (English). The Hebrew original is at
+  [terms.html](https://iris-app.tuval-ai.co.il/terms.html).
 
 Iris is a product of Tuval AI. It is not affiliated with, endorsed by or sponsored by WhatsApp or
 Meta.

@@ -6,6 +6,19 @@ archive [Iris](https://iris-app.tuval-ai.co.il) keeps on your own Mac.
 Ask "what did Dana ask about the quote last week?" and the agent searches the archive, opens the
 conversation and answers. Nothing is uploaded, and no account is created.
 
+## Iris works with official WhatsApp channels
+
+- **A business number registered with Meta.** Iris connects to it through Meta's official tools, with the
+  permissions granted in the owner's Meta account. Customer messages to the business number arrive in the
+  same archive and work inbox, the business replies from the number inside Iris, and Iris can answer
+  automatically from knowledge the owner approved, with a person able to take over at any time. Replies
+  follow Meta's rules: text, within 24 hours of the customer's last message.
+- **The official WhatsApp app on a Mac.** Iris can build its archive from the copy of the conversations
+  that the app already keeps on that computer.
+
+**This plugin reads the archive on the Mac**, which comes from the second channel. Conversations on the
+business number registered with Meta are kept in Iris's cloud archive, and this plugin does not read them.
+
 ## What you need before it works
 
 1. **Iris on a Mac, with its archive built from the WhatsApp app.** Iris is a work archive for small

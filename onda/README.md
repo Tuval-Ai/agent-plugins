@@ -79,7 +79,7 @@ to configure after installing.
 
 ## Licence
 
-MIT, as stated in [LICENSE](../LICENSE) at the root of this repository, which covers every
+MIT. See [LICENSE](LICENSE) beside this file. The same licence at the repository root covers every
 plugin in it.
 
 This folder contains only the agent plugin: one skill, written in Markdown. The ONDA applications

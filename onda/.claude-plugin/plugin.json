@@ -1,0 +1,20 @@
+{
+  "name": "onda",
+  "displayName": "ONDA",
+  "version": "1.0.0",
+  "description": "Read meetings recorded by ONDA (Tuval AI) from the recording folders on this machine: find a meeting, search the library, read a transcript or summary with speakers named. Honours each folder's privacy level before it reads.",
+  "author": {
+    "name": "Tuval AI",
+    "email": "onda@tuval-ai.co.il",
+    "url": "https://onda.tuval-ai.co.il"
+  },
+  "homepage": "https://onda.tuval-ai.co.il",
+  "repository": "https://github.com/Tuval-Ai/agent-plugins",
+  "license": "MIT",
+  "keywords": ["onda", "meeting", "transcript", "hebrew", "tuval-ai"],
+  "icon": "./assets/logo.svg",
+  "documentationUrl": "https://github.com/Tuval-Ai/agent-plugins/blob/main/onda/README.md",
+  "supportUrl": "https://onda.tuval-ai.co.il",
+  "privacyPolicyUrl": "https://onda.tuval-ai.co.il/privacy",
+  "termsOfServiceUrl": "https://onda.tuval-ai.co.il/terms"
+}

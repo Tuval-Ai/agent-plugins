@@ -27,6 +27,7 @@ business number registered with Meta are kept in Iris's cloud archive, and this 
    request at `iris@tuval-ai.co.il`, not from a public download page.
 
    This needs **Iris 0.2.19 or later**, with **WhatsApp on the Mac** (וואטסאפ במק) switched on in Iris's settings.
+   **Iris 0.2.20 or later is recommended**, including the latest local-copy cleanup fix.
    It is off until the business turns it on, because turning it on asks macOS for access to another
    app's data. The first import runs in the background and can take a quarter of an hour on a large
    history.
@@ -86,9 +87,43 @@ Meta.
 
 ## Install
 
-Install it from your agent's plugin directory, or point your agent at this folder directly. The
-plugin contains one skill and no executables, no hooks and no network calls, so there is nothing to
-configure after installing.
+### Claude Code
+
+In Claude Code 2.1.275 or later, run this in the agent's conversation:
+
+```text
+/plugin install tuval-iris --marketplace Tuval-Ai/agent-plugins
+```
+
+Or, in Claude Code 2.1.292 or later, run the equivalent command in a terminal:
+
+```sh
+claude plugin install tuval-iris --marketplace Tuval-Ai/agent-plugins
+```
+
+This installs from Tuval AI's own source marketplace. Approval and publication in Anthropic's
+official directory are a separate process and are not needed for this source installation.
+
+### Antigravity
+
+Install just the Iris folder from a local copy of the public repository:
+
+```sh
+git clone https://github.com/Tuval-Ai/agent-plugins.git
+agy plugin install ./agent-plugins/iris
+```
+
+This direct installation does not mean the plugin has been approved for Google's official
+Marketplace. The partner submission is a separate review.
+
+### Grok Build
+
+The [official catalog submission](https://github.com/xai-org/plugin-marketplace/pull/1942) is awaiting
+review. Once it is approved and published, look for Iris in Grok Build's plugin directory.
+
+The plugin contains one skill and no executables, no hooks and no network calls. Iris must already
+be installed and its Mac archive enabled as described above, but the plugin itself needs no account
+or configuration.
 
 ## Support
 

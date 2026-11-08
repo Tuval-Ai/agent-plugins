@@ -8,6 +8,10 @@ directory, Antigravity.
 | [ONDA](https://onda.tuval-ai.co.il) | [`onda/`](onda/) | Read meetings ONDA recorded, from the recording folders on your own machine |
 | [Iris](https://iris-app.tuval-ai.co.il) | [`iris/`](iris/) | Read a business's customer and staff conversations from the archive Iris keeps on your own Mac |
 
+The Claude Code source marketplace in this repository currently lists Iris as `tuval-iris`.
+See [Iris's installation instructions](iris/README.md#install). This source marketplace is separate
+from approval and publication in an agent provider's official directory.
+
 **Nothing in this repository is product code.** It holds skills, manifests and documentation that
 tell an agent how to work with a Tuval AI product. The products themselves are closed source and
 live elsewhere.

@@ -1,0 +1,16 @@
+{
+  "name": "tuval-ai-iris",
+  "description": "Iris's read-only business archive plugin for agents running on the business's Mac.",
+  "owner": {
+    "name": "Tuval AI"
+  },
+  "plugins": [
+    {
+      "name": "tuval-iris",
+      "source": "./iris",
+      "description": "Read the customer and staff conversations Iris archived on this Mac, through Iris's own read-only command.",
+      "version": "0.1.0",
+      "homepage": "https://iris-app.tuval-ai.co.il"
+    }
+  ]
+}

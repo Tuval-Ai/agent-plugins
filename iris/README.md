@@ -95,7 +95,7 @@ In Claude Code 2.1.275 or later, run this in the agent's conversation:
 /plugin install tuval-iris --marketplace Tuval-Ai/agent-plugins
 ```
 
-Or run the equivalent command in a terminal:
+Or, in Claude Code 2.1.292 or later, run the equivalent command in a terminal:
 
 ```sh
 claude plugin install tuval-iris --marketplace Tuval-Ai/agent-plugins
